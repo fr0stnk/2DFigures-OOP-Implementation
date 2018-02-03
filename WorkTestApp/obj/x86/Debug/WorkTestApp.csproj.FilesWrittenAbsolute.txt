@@ -1,0 +1,5 @@
+/Users/nikitakovylov/Projects/WorkTestApp/WorkTestApp/obj/x86/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/Users/nikitakovylov/Projects/WorkTestApp/WorkTestApp/bin/Debug/WorkTestApp.pdb
+/Users/nikitakovylov/Projects/WorkTestApp/WorkTestApp/bin/Debug/WorkTestApp.exe
+/Users/nikitakovylov/Projects/WorkTestApp/WorkTestApp/obj/x86/Debug/WorkTestApp.exe
+/Users/nikitakovylov/Projects/WorkTestApp/WorkTestApp/obj/x86/Debug/WorkTestApp.pdb
